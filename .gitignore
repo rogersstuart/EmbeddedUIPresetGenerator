@@ -1,0 +1,6 @@
+*
+!.gitignore
+!AudioClassification.py
+!PresetGenerator.py
+!requirements.txt
+!test_synth.mid
